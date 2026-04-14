@@ -148,12 +148,4 @@ Run:
 cd task5_webcam_pose
 bash run_task5.sh
 
-Take a screenshot of the running window and save it as screenshots/task5_webcam_output.png (for example, the one showing ~9.6 FPS and wrist coordinates). Press q to close.
 
-How to Use This Repo for the Lab Report
-
-Source code appendix: Point to the GitHub repo and briefly explain that all scripts are split per task.
-
-Screenshots: Attach images from screenshots/ in the report sections for Tasks 1–5.
-
-Future work: Task 5’s movenet_webcam.py can be extended to compute distances between shoulder–elbow–wrist keypoints and implement a bicep‑curl repetition counter, building on the same MoveNet output used here.
